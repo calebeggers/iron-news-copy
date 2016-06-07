@@ -1,0 +1,183 @@
+.navbar {
+  background-color: #8D90A1;
+  padding: 2px;
+}
+
+.logo {
+  width: 20px;
+  vertical-align: middle;
+}
+
+.title {
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 10pt;
+  color: #000;
+  font-weight: bold;
+  text-decoration: none;
+  padding-right: 5px;
+  padding-left: 0px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+
+.category {
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 10pt;
+  color: #222;
+  text-decoration: none;
+}
+
+.pipe {
+  color: #fff;
+}
+
+.pipe-2 {
+  color: #828282;
+}
+
+.login {
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 10pt;
+  color: #222;
+  text-decoration: none;
+  padding-left: 800px;
+}
+
+.body {
+  border: 0;
+  cell-padding: 0;
+  cell-spacing: 0;
+  width: 100%;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  padding-left: 0px;
+  padding-right: 0px;
+  background-color: #EEF0F3;
+}
+
+.rank {
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 10pt;
+  color: #828282;
+  text-decoration: none;
+}
+
+.upvote {
+  padding-right: 2px;
+  padding-bottom: 0px;
+}
+
+.content {
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 10pt;
+  color: #222;
+  text-decoration: none;
+}
+
+.source {
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 8pt;
+  color: #828282;
+  text-decoration: none;
+}
+
+.source-parenthesis {
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 8pt;
+  color: #828282;
+  text-decoration: none;
+}
+
+.subtext {
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 8pt;
+  color: #828282;
+  text-decoration: none;
+  padding-left: 17px;
+  margin-top: 1px;
+}
+
+.username {
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 8pt;
+  color: #828282;
+  text-decoration: none;
+}
+
+.timestamp {
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 8pt;
+  color: #828282;
+  text-decoration: none;
+}
+
+.comments {
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 8pt;
+  color: #828282;
+  text-decoration: none;
+}
+
+.link {
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 8pt;
+  color: #828282;
+  text-decoration: none;
+}
+
+.link:hover {
+  text-decoration: underline;
+}
+
+.body-2 {
+  border: 0;
+  cell-padding: 0;
+  cell-spacing: 0;
+  width: 100%;
+  padding-top: 1px;
+  padding-bottom: 15px;
+  padding-left: 0px;
+  padding-right: 0px;
+  background-color: #EEF0F3;
+}
+
+.more {
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 10pt;
+  color: #222;
+  text-decoration: none;
+  padding-left: 57px;
+  
+}
+
+.line-break {
+  padding: 2px;
+  margin: 0px;
+  border: 0px;
+  background-color: #8D90A1;
+  
+}
+
+.footer {
+  width: 100%;
+  padding: 15px;
+  text-align: center;
+  background-color: #EEF0F3;
+}
+
+.category-2 {
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 8pt;
+  color: #222;
+  text-decoration: none;
+}
+
+.search {
+  text-align: center;
+  background-color: #EEF0F3;
+  padding-top: 8px;
+  padding-bottom: 30px;
+  font-size: 10pt;
+  color: #828282;
+  font-family: Verdana, Geneva, sans-serif;
+}
